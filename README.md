@@ -1,2 +1,5 @@
-# usart.h
-It is header file which contain functions and register definitions used for  usart communication in AVR microcontroller. 
+# Introduction 
+This header file contains three functions.
+##usart_init()
+##usart_transmit()
+##usart_receive()
